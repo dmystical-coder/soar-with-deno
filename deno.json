@@ -12,6 +12,7 @@
     "~types/request": "./types/request.ts",
     "~crypto/auth": "./crypto/auth.ts",
     "~crypto/jwt": "./crypto/jwt.ts",
-    "~crypto/pwd": "./crypto/pwd.ts"
+    "~crypto/pwd": "./crypto/pwd.ts",
+    "~middleware": "./middleware/mod.ts"
   }
 }
